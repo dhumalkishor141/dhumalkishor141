@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhumalkishor141
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python
+- 👀 I’m interested in ...Javascript
+- 🌱 I’m currently learning ...Javascript
+- 💞️ I’m looking to collaborate on ...Javascript
 - 📫 How to reach me ...
 
 <!---
